@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuazot
+- 👋 Hi, I’m @yuzotova
 - 👀 I’m interested in CGI
 - 🌱 I’m currently learning python n houdini
 - 💞️ I’m looking to collaborate on projects of any format, as long as it is a unique concept and style
